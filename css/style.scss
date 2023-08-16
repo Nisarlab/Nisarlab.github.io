@@ -1,6 +1,6 @@
 $white: #ffffff;
 $black: #000000;
-$primary1: #7335b7;
+$primary1: #ffffff;
 $primary2: #f8842b;
 $textCol: #1f1f1f;
 
@@ -626,7 +626,7 @@ a:focus {
   button {
     @include main-font();
     @include hero_btn($primary1, $white, 10px, 65px, 3px);
-    color: #fff;
+    color: #000000;
     margin-top: 10px;
   }
 
