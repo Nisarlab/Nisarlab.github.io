@@ -252,7 +252,7 @@ a:focus {
   border-radius: 5px;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
-  border: 1px solid #f8842b;
+  border: 1px solid #000000;
 }
 
 .quote_btn-container .quote_btn:hover {
