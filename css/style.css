@@ -248,11 +248,11 @@ a:focus {
   display: inline-block;
   padding: 5px 25px;
   background-color: ##a6c20a;
-  color: #000000;
+  color: #4faf00;
   border-radius: 5px;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
-  border: 1px solid #000000;
+  border: 1px solid #5a2a8f;
 }
 
 .quote_btn-container .quote_btn:hover {
